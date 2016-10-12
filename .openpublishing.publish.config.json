@@ -19,11 +19,6 @@
       "template_folder": "_themes.MSDN.Modern"
     }
   ],
-  "notification_subscribers": [
-    "lauragra@microsoft.com",
-    "saldana@microsoft.com",
-    "v-logoff@microsoft.com"
-  ],
   "branches_to_filter": [
     "live"
   ],
